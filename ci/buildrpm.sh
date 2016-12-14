@@ -63,4 +63,4 @@ rm -rf %{buildroot}
 
 EOF
 
-rpmbuild -ba SPECS/toybinprog.spec
+rpmbuild -ba SPECS/journalbeat.spec
